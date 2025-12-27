@@ -5,11 +5,12 @@ excerpt: Using free ipv6 tunnel from he.net ipv6 tunnelbroker,xray batch generat
 image: https://img.siu5.dpdns.org/file/dypics/1762312516047_1750697289092.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1651&q=80
 category: Documentation
 tags:
-  - astro
-  - tailwind css
-  - front-end
+  - xray
+  - vmess
+  - ipv6
+  - tunnelbroker
 metadata:
-  canonical: https://astrowind.vercel.app/astrowind-template-in-depth
+  canonical: https://toolsblog.pages.dev/batch-generate-vmess-ipv6-nodes
 ---
 
 ## Batch generate vmess nodes 批量生成vmess ipv6節點
